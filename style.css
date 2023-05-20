@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+.text-big{
+ background-image: linear-gradient(to right,white,lightblue);      
+} 
+p{
+background-image: linear-gradient(to right,white,lightgreen); 
+font-family: URW Chancery L, cursive; 
+} 
+h1{
+text-shadow: -4px 2px navy,-8px 4px slateblue,-12px 6px turquoise;
+color: aqua;
+ font-family: URW Chancery L, cursive;    
+}
